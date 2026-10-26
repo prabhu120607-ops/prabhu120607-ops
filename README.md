@@ -1,11 +1,4 @@
-
 <h1 data-importer="text" align="center">Hi 👋! My name is prabhu kumar and I'm a fullstackdeveloper, from VU</h1>
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="150" src="https://imgflip.com/gif/98two6"  />
 
 ###
 
@@ -66,36 +59,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=true&text=portfolio%20!&fontSize=70&fontColor=#1A1A1A&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@_prabhu_120607/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@_prabhu_120607/0" alt="Medium post 1"  />
-  </a>
-</div>
-
-###
-
-<img data-importer="image" align="left" height="200" src="https://imgflip.com/i/b4d6su"  />
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31l33vlzd4ofo5hosing72mxzmgq?si=5421ec0f9f294458">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31l33vlzd4ofo5hosing72mxzmgq?si=5421ec0f9f294458&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=true&text=portfolio%20!&fontSize=70&fontColor=#1A1A1A&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=portfolio-v2-nine-blue.vercel.app&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
 ###
