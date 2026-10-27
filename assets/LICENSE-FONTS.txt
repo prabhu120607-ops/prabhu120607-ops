@@ -1,0 +1,39 @@
+================================================================================
+OPEN SOURCE FONT & ASSET LICENSES
+================================================================================
+
+1. OUTFIT FONT FAMILY
+---------------------
+Designer: Onsen (Rodrigo Fuenzalida)
+License: SIL Open Font License, Version 1.1 (OFL-1.1)
+URL: https://github.com/Outfitio/Outfit-Fonts
+Copyright (c) 2021, Onsen (https://www.onsen.design)
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license.
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless prominent written permission is granted by the corresponding Copyright Holder.
+
+--------------------------------------------------------------------------------
+
+2. JETBRAINS MONO FONT FAMILY
+-----------------------------
+Designer: Philipp Nurullin, Konstantin Bulenkov (JetBrains)
+License: SIL Open Font License, Version 1.1 (OFL-1.1)
+URL: https://github.com/JetBrains/JetBrainsMono
+Copyright (c) 2020, JetBrains (https://www.jetbrains.com)
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the conditions of the OFL-1.1 license.
+
+--------------------------------------------------------------------------------
+
+3. SIMPLE ICONS
+---------------
+License: Creative Commons Zero v1.0 Universal (CC0 1.0)
+URL: https://github.com/simple-icons/simple-icons
+Icons are trademarks of their respective owners.
